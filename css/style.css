@@ -1,0 +1,52 @@
+.slidephotoheight {
+    height: 600px;
+}
+
+body {
+    font-family: 'Flow Circular', cursive;
+    font-family: 'Raleway', sans-serif;
+}
+
+.infogreybg {
+    background-color: #f1f2f6;
+}
+.KadrWhiteBg {
+    background-color: white;
+}
+
+.LineHrBorder {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ifonhaqqimiz {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f1f2f6;
+    background-color: #f1f2f6;
+}
+
+.ifonkadrlar {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.kadrHover>img:hover {
+opacity: 0.8;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.formpad {
+    padding-bottom: 14px;
+}
